@@ -1,7 +1,7 @@
 This is a solution to the **Social Links Profile** challenge on [Frontend Mentor](https://www.frontendmentor.io/).
 
 ## Links
-- Live Site: [https://your-live-site-url.com](https://social-links-profile-plum-psi.vercel.app/)
+- Live Site: [https://]https://social-links-profile-plum-psi.vercel.app/](https://social-links-profile-plum-psi.vercel.app/)
 - Frontend Mentor: [https://www.frontendmentor.io/profile/your-username](https://www.frontendmentor.io/profile/thebennyma)
 
 ## Built with
@@ -15,3 +15,4 @@ This is a solution to the **Social Links Profile** challenge on [Frontend Mentor
 - Styling anchor tags as buttons
 - Centering layouts using CSS Grid
 - Improving accessibility with proper elements and focus states
+
